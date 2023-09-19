@@ -1,0 +1,14 @@
+{
+	"name": "Gamebeat",
+	"description": "",
+	"lang": "en",
+	"theme_color": "#1b1c1d",
+	"display": "browser",
+	"dir": "ltr",
+	"id": "/",
+	"start_url": "/",
+	"icons": [
+		{"src": "/img/android-chrome-192x192.png", "type": "image/png", "sizes": "192x192"},
+		{"src": "/img/android-chrome-512x512.png", "type": "image/png", "sizes": "512x512"}
+	]
+}
